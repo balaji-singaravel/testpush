@@ -1,0 +1,17 @@
+
+  table {
+    width: 100%;
+  }
+  
+  .mat-form-field {
+    font-size: 14px;
+    width: 20%;
+  }
+  button.mat-focus-indicator.mat-stroked-button.mat-button-base.mat-red {
+    left: 71%;
+    color: red;
+}
+.mat-radio-button ~ .mat-radio-button {
+    margin-left: 16px;
+  }
+  
